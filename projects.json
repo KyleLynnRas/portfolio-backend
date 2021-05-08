@@ -3,12 +3,16 @@
       "name": "Starship Pilots",
       "live": "https://starshippilots.netlify.app/",
       "git": "https://github.com/KyleLynnRas/KyleLynnRas.github.io",
-      "image": "https://i.imgur.com/RHb5k98.png"
+      "image": "https://i.imgur.com/RHb5k98.png", 
+      "summary": "This app displays facts about Star Wars pilots including information about their ship, home world and films that they’ve appeared in. The selected pilot can battle Darth Vader in the game section. It retrieves information using the Star Wars API (SWAPI). Orignal images from Shutterstock.",
+      "tech": "HTML5, CSS3, JavaScript, Adobe PhotoShop, jQuery, Google fonts, SWAPI- Star Wars API"
     },
     {
       "name": "TroupeLoop",
       "live": "https://unit2projectkr.herokuapp.com/",
       "git": "https://github.com/KyleLynnRas/unit2project",
-      "image": "https://i.imgur.com/SZsWmjH.png"
+      "image": "https://i.imgur.com/SZsWmjH.png", 
+      "summary": "This app is a message board for performance troupes to help keep everyone in the loop on performances, practices and everything else. Users are able to create an account and log into the shared team’s message board. There they can create posts and comments. Authorization is used to ensure users can only view pages if logged in and only edit/delete comments that they created. Users also have the ability to favorite posts and comments, and view them on a personalized favorites page. All photos in the app are by Rob Klug.",
+      "tech": "HTML5, CSS3, JavaScript, jQuery, Express, NodeJS, EJS, MongoDB, Mongoose, Bcrypt, Session, Bootstrap, Font awesome, Dav.js, Google fonts, Merced Logger"
     }
   ]
